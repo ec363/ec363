@@ -9,7 +9,7 @@ I am a Group Leader and Lecturer at the University of Leeds. My lab uses synthet
 
 Building software tools that improve the accuracy, reproducibility and automation of our data analysis workflows is central to our research. Our major contributions to date are: (1) in developing software that allows us to extract _real protein numbers_ from fluorescent protein assay data from plate readers: [FPCountR](https://github.com/ec363/fpcountr), and (2) in developing a web application that allows users new to programming to build their own data tidying function to convert any format of 'messy' exported data into 'tidy' data: [the Parsley app](https://github.com/ec363/parsleyapp).
 
-### ℹ️ Resources for Everyone
+### 📚 Resources for Everyone
 
 In addition to software, we use GitHub to collate and share useful resources.
 
