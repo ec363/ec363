@@ -15,3 +15,7 @@ In addition to software, we use GitHub to collate and share useful resources.
 
 - 🔬 [Wet Lab Resources](https://github.com/ec363/wet_lab_resources) is a list of online resources on DNA part sequences, molecular biology questions or basic protocols for handling DNA/RNA/proteins and _E. coli_.
 - 💻 [Coding Resources](https://github.com/ec363/coding_resources) is a list of resources helpful for learning to code, centred around the R language, but also including learning Git/GitHub for version control, and Markdown for text editing in coding-friendly formats.
+
+### Resources for Lab Members
+
+New lab members [start here](https://github.com/ec363/csibra_lab_resources)
